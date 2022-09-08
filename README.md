@@ -1,1 +1,1 @@
-# DL_image_classification
+Классификация изображений на 2 класса (Pytorch)
